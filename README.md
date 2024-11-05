@@ -52,5 +52,5 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
    - Find the top 3 regions by subscription cancellations.
    - Find the total number of active and canceled subscriptions.
  
- ### Data Analysis
-  
+ ### Data Analysis![Screenshot SalesData](https://github.com/user-attachments/assets/3d87dd83-de91-4143-a331-3b28b1e46110)
+ 
