@@ -93,7 +93,7 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
    - The East stands out with no cancellations with over 8,488 active customers, while the North has the most cancellations (5,067) with only 3,366 active subscriptions, 
      suggesting there is need for better retention efforts.
 
-###  Recommendation for SalesData
+### Recommendation for SalesData
 
     - Increase Sales of Low-Selling Items by introducing Promo offers tobundles to boost sales of items like Socks and Jackets by pairing them with popular items like Shoes.
     
