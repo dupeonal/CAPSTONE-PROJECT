@@ -53,4 +53,7 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
    - Find the total number of active and canceled subscriptions.
  
  ### Data Analysis![Screenshot SalesData](https://github.com/user-attachments/assets/3d87dd83-de91-4143-a331-3b28b1e46110)
- 
+
+
+    -![Screenshot for customerData](https://github.com/user-attachments/assets/556bbae3-09fe-4379-ae36-bdb89a68995b)
+
