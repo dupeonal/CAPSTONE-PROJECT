@@ -55,7 +55,11 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
  ### Data Analysis![Screenshot SalesData](https://github.com/user-attachments/assets/3d87dd83-de91-4143-a331-3b28b1e46110)
 
     ![Screenshot for pivot table SalesData](https://github.com/user-attachments/assets/38d698a7-8656-4e0f-84e0-5ca432fa4abe)
-![Screenshot for customerData](https://github.com/user-attachments/assets/556bbae3-09fe-4379-ae36-bdb89a68995b)
+    
+    ![Screenshot for customerData](https://github.com/user-attachments/assets/556bbae3-09fe-4379-ae36-bdb89a68995b)
+
+    ![Screenshot pivot table for customerData](https://github.com/user-attachments/assets/72787ed2-c76b-48c0-a84c-95329912c2a4)
+
 
 
 
