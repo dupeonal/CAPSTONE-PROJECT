@@ -12,7 +12,7 @@
 The main data sources for this analysis are the SalesData.CSV and CustomerData.csv files which are open source datasetsavailable for free download
 
 ### Tools Used
- - Microsoft Excel
+ - Microsoft Excel[Download here](https://www.microsoft.com)
     -For Data cleaning
     -For Analysis
  - SQL
