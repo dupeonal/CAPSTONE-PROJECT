@@ -15,9 +15,12 @@ The main data sources for this analysis are the SalesData.CSV and CustomerData.c
  - Microsoft Excel[Download here](https://www.microsoft.com)
    
     -For Data cleaning
+   
     -For Analysis
+   
  - SQL
-   - Structured Query Language for querying of Data
+   - Structured Query Language for querying of Date
+     
  - PowerBi
    - For Data Visualization
 
