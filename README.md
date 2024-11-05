@@ -73,8 +73,43 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
     - Average Duration : 365.35
     - Total Customer : 33787
     - Total Order : 33787
+ ### Conclusion
+
+ - The insights deducted from Salesdata analysis
+    
+    - Analysis revealed that Shoes is the top-selling product by revenue, while Socks generate the least revenue.
+    - In terms of regional performance, the South region has the highest sales, whereas the West region has the least.
+    - When looking at total quantities sold per product, Hats rank the highest, while Jackets have the lowest sales volume.
+    - Regional data shows that Hats, Jackets, and Shirts are not selling in the South region.
+    - Regarding monthly sales for the current year, February leads in sales, followed by January, with July being the lowest.
+ 
+-  The insights deducted from Customerdata analysis
+
+   - Basic subscriptions bring in the most revenue, making it a top choice among our customers.
+   - Basic is the most subscribed option, with over 10 customers choosing this plan, showing it’s quite popular.
+   - Over $30 million came from customers who’ve canceled, while active customers contribute about $37 million, which indicates good ongoing engagement despite some turnover
+   - The data shows that the average subscription length is about 12 months, or roughly 360 days. This is decent, but there’s room to improve retention and customers 
+     onboard.
+   - The East stands out with no cancellations with over 8,488 active customers, while the North has the most cancellations (5,067) with only 3,366 active subscriptions, 
+     suggesting there is need for better retention efforts.
+
+###  Recommendation for SalesData
+
+    -Increase Sales of Low-Selling Items by introducing Promo offers tobundles to boost sales of items like Socks and Jackets by pairing them with popular items like Shoes.
+    -Special campaigns in the West region and investigate why certain items are not selling in the South and getting feedbacks from customers their options on the products, 
+     inorder to make any necessary adjustments.
+    -For areas that has strong sales in certain month, study the sales trends and use similar strategies to promote the slower months like July, with this will there will 
+     be increase in revenue inflow in the upcoming months.
+
+### Recommendation for CustomerData
+
+   -To increase the average duration beyond 12 months, offering benefits or rewards for long-term commitments for customers.
+   -There is need to carry out more Publicity on Subscription Plans(Basic subscriptions) as well as encourage subscribers by adding adding perks/Incentives to make it even 
+    more appealing.
+   -Promotional programs such as referrals and campaigns should be targeted in High-Churn Area such as the Northern region which has the highest cancellation subscription.
 
 
+   
 
 
     
