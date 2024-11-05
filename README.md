@@ -95,18 +95,22 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
 
 ###  Recommendation for SalesData
 
-    -Increase Sales of Low-Selling Items by introducing Promo offers tobundles to boost sales of items like Socks and Jackets by pairing them with popular items like Shoes.
-    -Special campaigns in the West region and investigate why certain items are not selling in the South and getting feedbacks from customers their options on the products, 
-     inorder to make any necessary adjustments.
-    -For areas that has strong sales in certain month, study the sales trends and use similar strategies to promote the slower months like July, with this will there will 
-     be increase in revenue inflow in the upcoming months.
+    - Increase Sales of Low-Selling Items by introducing Promo offers tobundles to boost sales of items like Socks and Jackets by pairing them with popular items like Shoes.
+    
+    - Special campaigns in the West region and investigate why certain items are not selling in the South and getting feedbacks from customers their options on the 
+      products, inorder to make any necessary adjustments.
+     
+    - For areas that has strong sales in certain month, study the sales trends and use similar strategies to promote the slower months like July, with this will there will 
+      be increase in revenue inflow in the upcoming months.
 
 ### Recommendation for CustomerData
 
-   -To increase the average duration beyond 12 months, offering benefits or rewards for long-term commitments for customers.
-   -There is need to carry out more Publicity on Subscription Plans(Basic subscriptions) as well as encourage subscribers by adding adding perks/Incentives to make it even 
-    more appealing.
-   -Promotional programs such as referrals and campaigns should be targeted in High-Churn Area such as the Northern region which has the highest cancellation subscription.
+   - To increase the average duration beyond 12 months, offering benefits or rewards for long-term commitments for customers.
+     
+   - There is need to carry out more Publicity on Subscription Plans(Basic subscriptions) as well as encourage subscribers by adding adding perks/Incentives to make it even 
+     more appealing.
+
+   - Promotional programs such as referrals and campaigns should be targeted in High-Churn Area such as the Northern region which has the highest cancellation subscription.
 
 
    
