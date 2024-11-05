@@ -60,6 +60,20 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
 
     ![Screenshot pivot table for customerData](https://github.com/user-attachments/assets/72787ed2-c76b-48c0-a84c-95329912c2a4)
 
+  ### Basic Statistic in the sales Dataset 
+     - Total Sales: 2.1 Million
+     - Average Sales: 211.8
+     - Total Customer: 9921
+     - Marginal Profit: 1.8 Million
+     - Total Quantity: 68.5K
+
+ ### Basic Statistic in the customer Dataset
+    - Total Revenue : 67.5 Million
+    - Average Revenue : 1999
+    - Average Duration : 365.35
+    - Total Customer : 33787
+    - Total Order : 33787
+
 
 
 
