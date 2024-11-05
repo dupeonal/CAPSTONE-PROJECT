@@ -2,16 +2,25 @@
 
 ### Project Title: Sales Transactions and Customer Subscription Dataset
 
-[Project Overview](#project-overview)
-[Data Source](#data-source)
-[Tools Used](#tools-used)
-[Data Cleaning and Preparations](#data-cleaning-and-preparations)
-[Exploratory Data Analysis](#exploratory-data-analysis)
-[Data Analysis](#data-analysis)
-[Basic Statistic in the sales Dataset](#basic-statistic-in-the-sales-dataset)
-[Basic Statistic in the customer Dataset](#basic-statistic-in-the-customer-dataset)
-[Conclusion](#conclusion)
-[Recommendations](#recommendation)
+- [Project Overview](#project-overview)
+  
+- [Data Source](#data-source)
+  
+- [Tools Used](#tools-used)
+  
+- [Data Cleaning and Preparations](#data-cleaning-and-preparations)
+  
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+  
+- [Data Analysis](#data-analysis)
+  
+- [Basic Statistic in the sales Dataset](#basic-statistic-in-the-sales-dataset)
+  
+- [Basic Statistic in the customer Dataset](#basic-statistic-in-the-customer-dataset)
+  
+- [Conclusion](#conclusion)
+  
+- [Recommendations](#recommendation)
 
 
 ### Project Overview
@@ -65,11 +74,7 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
    - Find the total number of active and canceled subscriptions.
      
  
- ### Data Analysis
-                  ![Screenshot SalesData](https://github.com/user-attachments/assets/3d87dd83-de91-4143-a331-3b28b1e46110)
-                  ![Screenshot for pivot table SalesData](https://github.com/user-attachments/assets/38d698a7-8656-4e0f-84e0-5ca432fa4abe)
-                  ![Screenshot for customerData](https://github.com/user-attachments/assets/556bbae3-09fe-4379-ae36-bdb89a68995b)
-                  ![Screenshot pivot table for customerData](https://github.com/user-attachments/assets/72787ed2-c76b-48c0-a84c-95329912c2a4)
+ ### Data Analysis![Screenshot SalesData](https://github.com/user-attachments/assets/3d87dd83-de91-4143-a331-3b28b1e46110)![Screenshot for pivot table SalesData](https://github.com/user-attachments/assets/38d698a7-8656-4e0f-84e0-5ca432fa4abe)![Screenshot for customerData](https://github.com/user-attachments/assets/556bbae3-09fe-4379-ae36-bdb89a68995b)![Screenshot pivot table for customerData](https://github.com/user-attachments/assets/72787ed2-c76b-48c0-a84c-95329912c2a4)
 
 
   ### Basic Statistic in the sales Dataset 
