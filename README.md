@@ -10,3 +10,40 @@
 
 ### Data Source
 The main data sources for this analysis are the SalesData.CSV and CustomerData.csv files which are open source datasetsavailable for free download
+
+### Tools Used
+ - Microsoft Excel
+    -For Data cleaning
+    -For Analysis
+ - SQL
+   - Structured Query Language for querying of Data
+ - PowerBi
+   - For Data Visualization
+
+### Data Cleaning and Preparations
+In the initial phase of the Data cleaning and preparation, we perform the following action;
+
+ - Data loading and Inspection
+ - Handling missing variables
+ - Data Cleaning and formatting
+
+### Exploratory Data Analysis 
+ - For SalesData
+    - Retrieve the total sales for each product category.
+    - Find the number of sales transactions in each region.
+    - Find the highest-selling product by total sales value.
+    - Calculate total revenue per product.
+    - Calculate monthly sales totals for the current year.
+    - Find the top 5 customers by total purchase amount.
+    - Calculate the percentage of total sales contributed by each region.
+    - Identify products with no sales in the last quarter.
+      
+- For CustomerData
+   - Retrieve the total number of customers from each region.
+   - Find the most popular subscription type by the number of customers.
+   - Find customers who canceled their subscription within 6 months.
+   - Calculate the average subscription duration for all customers.
+   - Find customers with subscriptions longer than 12 months.
+   - Calculate total revenue by subscription type.
+   - Find the top 3 regions by subscription cancellations.
+   - Find the total number of active and canceled subscriptions.
