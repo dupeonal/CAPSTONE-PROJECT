@@ -47,3 +47,6 @@ In the initial phase of the Data cleaning and preparation, we perform the follow
    - Calculate total revenue by subscription type.
    - Find the top 3 regions by subscription cancellations.
    - Find the total number of active and canceled subscriptions.
+ 
+ ### Data Analysis
+ 
